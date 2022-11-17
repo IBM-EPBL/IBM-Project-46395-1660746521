@@ -1,0 +1,17 @@
+.dashboard-page-container{
+    padding: 15px;
+}
+
+.card-container{
+  padding: 15px;   
+}
+
+.piegraph-container{
+    padding: 15px;
+    padding-top: 20px;
+}
+
+.bargraph-container{
+    padding: 15px;
+    padding-top: 20px;
+}
